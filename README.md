@@ -1,4 +1,3 @@
-# python-summerschool-2019
 
 ### Scientific Computing
 
