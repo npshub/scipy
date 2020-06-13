@@ -1,7 +1,7 @@
 
 ### Scientific Computing
 
-### Vibrating membrane
+#### Example of Vibrating membrane
 
 Table |p|q|
 ---|---|---
